@@ -13,6 +13,6 @@ public class Usuario {
     private String nombre;
     private String apellido;
     private String id;
-    private int rut;
+    private int rut
     
 }
